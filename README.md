@@ -1,3 +1,3 @@
 # MoshiMoshi
 
-Cutting-edge frontend dev
+Cutting-edge frontend layout framework
